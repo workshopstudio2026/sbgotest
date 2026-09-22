@@ -1,0 +1,6 @@
+{
+  "name": "SB GO Stationery",
+  "description": "Your neighbourhood stationery store. Stationery, art supplies, gifts, party essentials and everyday value under one roof.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
